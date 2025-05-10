@@ -3,7 +3,6 @@
 </div>
 
 # 🔥 About Me
-## user@user ~> neofetch
 ------------------------------------
 ### OS:              Ubuntu 24.04.2 LTS x86_64
 ### Host:            Atlas M16-A7W303
