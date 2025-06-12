@@ -4,7 +4,7 @@
 
 # 🔥 About Me
 ------------------------------------
-### OS:              Ubuntu 24.04.2 LTS x86_64
+### OS:              Kali GNU/Linux Rolling x86_64
 ### Host:            Atlas M16-A7W303
 ### Kernel:          Learning
 ### Uptime:          Always
