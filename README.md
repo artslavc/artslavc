@@ -19,7 +19,7 @@
 ### GPU:             Brain
 ### Memory:          Still Loading...
 ------------------------------------
-Web Developer | Cybersecurity Enthusiast | Minecraft Modder (Flans/Mcheli) | Electronics Tinkerer
+Web Developer | Cybersecurity | Game Developer(Unity) | Minecraft Modder (Flans/Mcheli) | Electronics Tinkerer
 # 🍮 My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artslavc&show_icons=true&theme=dracula) <br>
