@@ -9,12 +9,12 @@
 ### Kernel:          Learning
 ### Uptime:          Always
 ### Packages:        Web Development, Cybersecurity, Minecraft Modding, Electronics
-### Shell:           fish 3.7.0 (sometimes Zsh when I'm feeling fancy)
-### Resolution:      1920x1080 (at least)
+### Shell:           zsh 5.9
+### Resolution:      1920x1200
 ### DE:              My own brain
 ### WM:              Multitasking (poorly)
-### Theme:           Yaru-dark [GTK2/3] (for my eyes!)
-### Icons:           Yaru-dark [GTK2/3]
+### Theme:           Fusion [Qt], Kali-Dark [GTK2/3/4]
+### Icons:           Flat-Remix-Blue-Dark [Qt], Flat-Remix-Blue-Dark [GTK2/3/4]
 ### CPU:             AMD Ryzen 7 5800U with Radeon Graphics (16) @ 4.507GHz
 ### GPU:             Brain
 ### Memory:          Still Loading...
