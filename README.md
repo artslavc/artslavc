@@ -4,17 +4,17 @@
 
 # 🔥 About Me
 ------------------------------------
-### OS:              Kali GNU/Linux Rolling x86_64
+### OS:              Ubuntu 24.04.3 LTS x86_64
 ### Host:            Atlas M16-A7W303
 ### Kernel:          Learning
 ### Uptime:          Always
 ### Packages:        Web Development, Cybersecurity, Minecraft Modding, Electronics
-### Shell:           zsh 5.9
+### Shell:           fish 3.7.0
 ### Resolution:      1920x1200
 ### DE:              My own brain
 ### WM:              Multitasking (poorly)
-### Theme:           Fusion [Qt], Kali-Dark [GTK2/3/4]
-### Icons:           Flat-Remix-Blue-Dark [Qt], Flat-Remix-Blue-Dark [GTK2/3/4]
+### Theme:           Yaru-dark [GTK2/3]
+### Icons:           Yaru [GTK2/3]
 ### CPU:             AMD Ryzen 7 5800U with Radeon Graphics (16) @ 4.507GHz
 ### GPU:             Brain
 ### Memory:          Still Loading...
