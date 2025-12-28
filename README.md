@@ -8,7 +8,7 @@
 ### Host:            Atlas M16-A7W303
 ### Kernel:          Learning
 ### Uptime:          Always
-### Packages:        Web Development, Cybersecurity, Minecraft Modding, Electronics
+### Packages:        Web Development, Minecraft Modding, Electronics
 ### Shell:           fish 3.7.0
 ### Resolution:      1920x1200
 ### DE:              My own brain
@@ -19,8 +19,4 @@
 ### GPU:             Brain
 ### Memory:          Still Loading...
 ------------------------------------
-Web Developer | Cybersecurity | Game Developer(Unity) | Minecraft Modder (Flans/Mcheli) | Electronics Tinkerer
-# 🍮 My Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artslavc&show_icons=true&theme=dracula) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artslavc&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+Web Developer | Software Dev | Minecraft Modder (Flans/Mcheli) | Electronics Engineer
