@@ -8,7 +8,6 @@
 ### Host:            Atlas M16-A7W303
 ### Kernel:          Learning
 ### Uptime:          Always
-### Packages:        Web Development, Minecraft Modding, Electronics
 ### Shell:           fish 3.7.0
 ### Resolution:      1920x1200
 ### DE:              My own brain
