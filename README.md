@@ -4,12 +4,12 @@
 
 # 🔥 About Me
 ------------------------------------
-### OS:              Ubuntu 24.04.3 LTS x86_64
+### OS:              Ubuntu / Windows 10
 ### Host:            Atlas M16-A7W303
 ### Kernel:          Learning
 ### Uptime:          Always
 ### Shell:           fish 3.7.0
-### Resolution:      1920x1200
+### Resolution:      1920x1200 / 1920x1080
 ### DE:              My own brain
 ### WM:              Multitasking (poorly)
 ### Theme:           Yaru-dark [GTK2/3]
@@ -18,4 +18,4 @@
 ### GPU:             Brain
 ### Memory:          Still Loading...
 ------------------------------------
-Web Developer | Software Dev | Minecraft Modder (Flans/Mcheli) | Electronics Engineer
+Web Developer | Software Dev | Minecraft Modder | Electronics Engineer
