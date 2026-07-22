@@ -4,7 +4,7 @@
 
 # 🔥 About Me
 ------------------------------------
-### OS:              Ubuntu / Windows 10
+### OS:              Ubuntu / Windows 11
 ### Host:            Atlas M16-A7W303
 ### Kernel:          Learning
 ### Uptime:          Always
