@@ -62,16 +62,6 @@
 
 ---
 
-## 🏆 Гитхаб Тропа
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=artslavc&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📫 Контакты
 
 <div align="center">
